@@ -2,10 +2,8 @@
 #CampTechAndData: Projects from RCCG NA 1 Children’s Church Camp Technology & Data Science Sessions
 #Welcome to CampTechAndData, a collection of fun and educational projects created during the technology and data science sessions at the Children's Church Camp!
 #This repository contains coding, research, and learning activities designed to introduce kids (9-12 years old) to technology, programming, and data analysis in a hands-on, interactive way.
-#About the Projects
-#In these sessions, children explored technology concepts like coding, data visualization, machine learning, and more. Each project focuses on building foundational skills in problem-solving, creativity, and teamwork, while applying technology to solve real-world problems.
-#Getting Started
-If you want to dive into any of the projects, here’s what you need to do:
+About the Projects- In these sessions, children explored technology concepts like coding, data visualization, machine learning, and more. Each project focuses on building foundational skills in problem-solving, creativity, and teamwork, while applying technology to solve real-world problems.
+Getting Started- If you want to dive into any of the projects, here’s what you need to do:
 
 Clone this Repository:
 To get started with the projects on your local computer, run the following command in your terminal:
